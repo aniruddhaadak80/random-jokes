@@ -1,3 +1,4 @@
+// Date --> 17/04/2024
 const jokesh2 = document.getElementById("jokes");
 const ans_joke = document.getElementById("ans-joke");
 const joke_btn = document.getElementById("joke-btn");
